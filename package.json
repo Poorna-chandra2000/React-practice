@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-hook-form": "^7.53.2",
     "vite": "^5.4.10"
   }
 }

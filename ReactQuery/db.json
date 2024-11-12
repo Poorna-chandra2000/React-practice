@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "9997",
+      "title": "kwhkjd",
+      "price": "7363",
+      "description": "kakjfkjdbf",
+      "category": "kakjekjbfkjef",
+      "image": "kakjdbk"
+    },
+    {
+      "id": "a070",
+      "title": "kjbdkjbas",
+      "price": "265676",
+      "description": "akjdkjadb",
+      "category": "ppppppppp ppppppppppp pppppppppppppp pppppppppppppppppppppppppp",
+      "image": "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZHVjdCUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "6ded",
+      "title": "adsgasfgsf",
+      "price": "4000",
+      "description": "pppppppppp pppppppppppppp ppppppppppppppppp ppppppppp",
+      "category": "asfafaf",
+      "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+    },
+    {
+      "id": "3893",
+      "title": "sdDSDASD",
+      "price": "3456",
+      "description": "A white background with a deep green color, aromatherapy skin care products from the brand and two bottles of body cream in ...",
+      "category": "sdadadd",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuWFOieNQPxPidQZU3TILGphIbKlqndnW4116zuAuhgUiKmd9HRfDCNYNHzd6U07M3Sc&usqp=CAU"
+    },
+    {
+      "id": "d052",
+      "title": "shoes",
+      "price": "4747",
+      "description": "kdjfjdbajfka kadhhfk dhfjkhdjfk hadfkjhdjkf lhfjdhksf",
+      "category": "shoes",
+      "image": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/primary/ProductShowcasesampleimages/JPEG/Product+Showcase-1.jpg"
+    },
+    {
+      "id": "ead8",
+      "title": "efeff",
+      "price": "345",
+      "description": "fadsf aefadf agawrg arwgarg",
+      "category": "aeaff",
+      "image": "https://img.freepik.com/free-photo/confident-student-posing-against-white-wall_273609-20648.jpg?t=st=1731356802~exp=1731360402~hmac=690de6e25a5e20281031efda3f9caafb7b2e53963989a3828a19ef5e5ec94b68&w=900"
+    },
+    {
+      "id": "6f3d",
+      "title": "effsdfdf",
+      "price": "567",
+      "description": "fddfb ffgs  fgfg sfgdfgsd srgdfg sgf ",
+      "category": "dfdf",
+      "image": "https://img.freepik.com/free-photo/close-up-shot-satisfied-lovely-teenager-with-bushy-curly-hair-has-eyes-shut-pleasant-smile-awaits-surprise-with-great-happiness-enjoys-awesome-time-weekend-wears-white-t-shirt_273609-27754.jpg?t=st=1731357116~exp=1731360716~hmac=cd25789506383bc44d192ae707089041ea886c7561b67f040e4962088f40ffbb&w=900"
+    },
+    {
+      "id": "b053",
+      "title": "djhfhd",
+      "price": "64748",
+      "description": "jksdKJBS DKSJD SJDJS KSJDKJSD KHDKJSHDK KHDKJS",
+      "category": "HDKJHSK",
+      "image": "https://as1.ftcdn.net/v2/jpg/03/50/03/80/1000_F_350038052_d3jQa2mDAh58DOShi2vfkycEX3wUW2tz.jpg"
+    },
+    {
+      "id": "0da5",
+      "title": "wdsf",
+      "price": "43545",
+      "description": "eeeeff gsfg  gs gs gsrg rh hhtghgfhfh hth",
+      "category": "ffdgsfg",
+      "image": "https://thumbs.dreamstime.com/b/empty-blue-podium-mockup-product-display-background-palm-leaves-shadow-overlay-blue-podium-pedestal-platform-stand-324951845.jpg"
+    },
+    {
+      "id": "7967",
+      "title": "dzdv",
+      "price": "3455",
+      "description": "fdfdz   fd fdf gsdgzssfzsfhzd s shzz",
+      "category": "dsvd",
+      "image": "https://images.pexels.com/photos/757889/pexels-photo-757889.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+      "id": "2fbe",
+      "title": "dcdc",
+      "price": "3455",
+      "description": "course",
+      "category": "vzvzdvz",
+      "image": "https://www.google.com/search?q=cat&sca_esv=26ae990ca6498652&sxsrf=ADLYWIJN1wExApGMaB-GQH5n7aVAEXs3gQ:1731059731900&source=hp&ei=E-AtZ_CSNLD0juMP6KvjYA&oq=cat&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciA2NhdDILEAAYgAQYsQMYgwEyCBAAGIAEGLEDMggQABiABBixAzIOEAAYgAQYsQMYgwEYigUyCBAAGIAEGLEDSPwpUO0ZWLomcAJ4AJABAJgBoAKgAfcEqgEFMi4xLjG4AQPIAQD4AQGYAgagAvcFqAIFwgIHECMYJxjqAsICBRAAGIAEwgIEECMYJ5gDGZIHBzMuMi4wLjGgB58S&sclient=mobile-gws-wiz-img&udm=2"
+    },
+    {
+      "id": "4fae",
+      "title": "gsfg",
+      "price": "sgsg",
+      "description": "sfgs",
+      "category": "gsgsg",
+      "image": "dgsdgsg"
+    }
+  ]
+}

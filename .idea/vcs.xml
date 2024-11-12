@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ReactRouterPractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/company website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-react-training" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vite-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vite-project/lab-hello-rootlearn" vcs="Git" />
+  </component>
+</project>
