@@ -34,15 +34,16 @@ const AddDetails = () => {
     });
 
     return (
-        <div className="bg-slate-800">
-            <form className="flex flex-col"
+        <div className="bg-slate-800 flex items-center justify-center w-screen h-screen bg-gradient-to-br from-30% from-violet-500 to-80% to-sky-500">
+            <form className="flex flex-col w-[16rem] bg-white/45 gap-5 p-4 rounded-md shadow-sm shadow-black backdrop-blur-md"
                   onSubmit={handleSubmit(handleSubmitData)}> {/*//the data will be automatically passed by react hook for the fuction defined in handle submit*/}
-                <input placeholder="Enter title" {...register('title')} type="text"/>
-                <input placeholder="Enter price" {...register('price')} type="text"/>
-                <input placeholder="Enter decription" {...register('description')} type="text"/>
-                <input placeholder="Enter category" {...register('category')} type="text"/>
-                <input placeholder="Enter imageUrl" {...register('image')} type="text"/>
-                <button type="submit" className="bg-blue-500 text-white py-2 px-4 rounded">
+                <h1 className="text-2xl font-bold text-lg textstroke">Add Details</h1>
+                <input className="p-1 outline-2 outline-violet-400 rounded-md backdrop-blur-sm bg-white/30" placeholder="Enter title" {...register('title')} type="text"/>
+                <input className="p-1 outline-2 outline-violet-400 rounded-md backdrop-blur-sm bg-white/30" placeholder="Enter price" {...register('price')} type="text"/>
+                <input className="p-1 outline-2 outline-violet-400 rounded-md backdrop-blur-sm bg-white/30" placeholder="Enter decription" {...register('description')} type="text"/>
+                <input className="p-1 outline-2 outline-violet-400 rounded-md backdrop-blur-sm bg-white/30" placeholder="Enter category" {...register('category')} type="text"/>
+                <input className="p-1 outline-2 outline-violet-400 rounded-md backdrop-blur-sm bg-white/30" placeholder="Enter imageUrl" {...register('image')} type="text"/>
+                <button type="submit" className="bg-gradient-to-r from-blue-500 to-sky-400 text-white py-2 px-4 rounded shine textstroke-light">
                     Submit
                 </button>
             </form>

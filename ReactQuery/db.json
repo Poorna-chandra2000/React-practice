@@ -9,100 +9,146 @@
       "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
     },
     {
-      "id": "9997",
-      "title": "kwhkjd",
-      "price": "7363",
-      "description": "kakjfkjdbf",
-      "category": "kakjekjbfkjef",
-      "image": "kakjdbk"
+      "id": "e8af",
+      "title": "Mens Cotton Jacket",
+      "price": "55.99",
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
     },
     {
-      "id": "a070",
-      "title": "kjbdkjbas",
-      "price": "265676",
-      "description": "akjdkjadb",
-      "category": "ppppppppp ppppppppppp pppppppppppppp pppppppppppppppppppppppppp",
-      "image": "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZHVjdCUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fHww"
+      "id": "3133",
+      "title": "Mens Casual Slim Fit",
+      "price": "15.99",
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
     },
     {
-      "id": "6ded",
-      "title": "adsgasfgsf",
-      "price": "4000",
-      "description": "pppppppppp pppppppppppppp ppppppppppppppppp ppppppppp",
-      "category": "asfafaf",
-      "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+      "id": "0589",
+      "title": "Solid Gold Petite Micropave",
+      "price": "168",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
     },
     {
-      "id": "3893",
-      "title": "sdDSDASD",
-      "price": "3456",
-      "description": "A white background with a deep green color, aromatherapy skin care products from the brand and two bottles of body cream in ...",
-      "category": "sdadadd",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuWFOieNQPxPidQZU3TILGphIbKlqndnW4116zuAuhgUiKmd9HRfDCNYNHzd6U07M3Sc&usqp=CAU"
+      "id": "836f",
+      "title": "White Gold Plated Princess",
+      "price": "9.99",
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
     },
     {
-      "id": "d052",
-      "title": "shoes",
-      "price": "4747",
-      "description": "kdjfjdbajfka kadhhfk dhfjkhdjfk hadfkjhdjkf lhfjdhksf",
-      "category": "shoes",
-      "image": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/primary/ProductShowcasesampleimages/JPEG/Product+Showcase-1.jpg"
+      "id": "5175",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": "7.95",
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    }
+  ],
+  "fruits": [
+    {
+      "id": "1",
+      "name": "Apple"
     },
     {
-      "id": "ead8",
-      "title": "efeff",
-      "price": "345",
-      "description": "fadsf aefadf agawrg arwgarg",
-      "category": "aeaff",
-      "image": "https://img.freepik.com/free-photo/confident-student-posing-against-white-wall_273609-20648.jpg?t=st=1731356802~exp=1731360402~hmac=690de6e25a5e20281031efda3f9caafb7b2e53963989a3828a19ef5e5ec94b68&w=900"
+      "id": "2",
+      "name": "Banana"
     },
     {
-      "id": "6f3d",
-      "title": "effsdfdf",
-      "price": "567",
-      "description": "fddfb ffgs  fgfg sfgdfgsd srgdfg sgf ",
-      "category": "dfdf",
-      "image": "https://img.freepik.com/free-photo/close-up-shot-satisfied-lovely-teenager-with-bushy-curly-hair-has-eyes-shut-pleasant-smile-awaits-surprise-with-great-happiness-enjoys-awesome-time-weekend-wears-white-t-shirt_273609-27754.jpg?t=st=1731357116~exp=1731360716~hmac=cd25789506383bc44d192ae707089041ea886c7561b67f040e4962088f40ffbb&w=900"
+      "id": "3",
+      "name": "Orange"
     },
     {
-      "id": "b053",
-      "title": "djhfhd",
-      "price": "64748",
-      "description": "jksdKJBS DKSJD SJDJS KSJDKJSD KHDKJSHDK KHDKJS",
-      "category": "HDKJHSK",
-      "image": "https://as1.ftcdn.net/v2/jpg/03/50/03/80/1000_F_350038052_d3jQa2mDAh58DOShi2vfkycEX3wUW2tz.jpg"
+      "id": "4",
+      "name": "Mango"
     },
     {
-      "id": "0da5",
-      "title": "wdsf",
-      "price": "43545",
-      "description": "eeeeff gsfg  gs gs gsrg rh hhtghgfhfh hth",
-      "category": "ffdgsfg",
-      "image": "https://thumbs.dreamstime.com/b/empty-blue-podium-mockup-product-display-background-palm-leaves-shadow-overlay-blue-podium-pedestal-platform-stand-324951845.jpg"
+      "id": "5",
+      "name": "Pineapple"
     },
     {
-      "id": "7967",
-      "title": "dzdv",
-      "price": "3455",
-      "description": "fdfdz   fd fdf gsdgzssfzsfhzd s shzz",
-      "category": "dsvd",
-      "image": "https://images.pexels.com/photos/757889/pexels-photo-757889.jpeg?auto=compress&cs=tinysrgb&w=400"
+      "id": "6",
+      "name": "Grapes"
     },
     {
-      "id": "2fbe",
-      "title": "dcdc",
-      "price": "3455",
-      "description": "course",
-      "category": "vzvzdvz",
-      "image": "https://www.google.com/search?q=cat&sca_esv=26ae990ca6498652&sxsrf=ADLYWIJN1wExApGMaB-GQH5n7aVAEXs3gQ:1731059731900&source=hp&ei=E-AtZ_CSNLD0juMP6KvjYA&oq=cat&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciA2NhdDILEAAYgAQYsQMYgwEyCBAAGIAEGLEDMggQABiABBixAzIOEAAYgAQYsQMYgwEYigUyCBAAGIAEGLEDSPwpUO0ZWLomcAJ4AJABAJgBoAKgAfcEqgEFMi4xLjG4AQPIAQD4AQGYAgagAvcFqAIFwgIHECMYJxjqAsICBRAAGIAEwgIEECMYJ5gDGZIHBzMuMi4wLjGgB58S&sclient=mobile-gws-wiz-img&udm=2"
+      "id": "7",
+      "name": "Watermelon"
     },
     {
-      "id": "4fae",
-      "title": "gsfg",
-      "price": "sgsg",
-      "description": "sfgs",
-      "category": "gsgsg",
-      "image": "dgsdgsg"
+      "id": "8",
+      "name": "Strawberry"
+    },
+    {
+      "id": "9",
+      "name": "Peach"
+    },
+    {
+      "id": "10",
+      "name": "Cherry"
+    },
+    {
+      "id": "11",
+      "name": "Blueberry"
+    },
+    {
+      "id": "12",
+      "name": "Raspberry"
+    },
+    {
+      "id": "13",
+      "name": "Blackberry"
+    },
+    {
+      "id": "14",
+      "name": "Kiwi"
+    },
+    {
+      "id": "15",
+      "name": "Papaya"
+    },
+    {
+      "id": "16",
+      "name": "Avocado"
+    },
+    {
+      "id": "17",
+      "name": "Lemon"
+    },
+    {
+      "id": "18",
+      "name": "Lime"
+    },
+    {
+      "id": "19",
+      "name": "Coconut"
+    },
+    {
+      "id": "20",
+      "name": "Plum"
+    },
+    {
+      "id": "21",
+      "name": "Apricot"
+    },
+    {
+      "id": "22",
+      "name": "Pomegranate"
+    },
+    {
+      "id": "23",
+      "name": "Dragonfruit"
+    },
+    {
+      "id": "24",
+      "name": "Cantaloupe"
+    },
+    {
+      "id": "25",
+      "name": "Tangerine"
     }
   ]
 }

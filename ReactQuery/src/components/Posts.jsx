@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react';
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
@@ -46,7 +47,7 @@ console.log(singleProduct);
 
 
     return (
-        <div className="flex flex-wrap w-screen h-screen justify-center relative">
+        <div className="flex flex-wrap w-screen h-screen justify-center relative overflow-y-auto">
             <div className="flex flex-col left-0 top-8 gap-2 fixed">
                 {[0,1].map((categ, index) => (
                     <Button key={index} cate={categ} onClick={() => {

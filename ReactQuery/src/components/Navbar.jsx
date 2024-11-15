@@ -50,7 +50,7 @@ const Navbar = () => {
                 <NavLink className={({isActive}) => `${isActive ? "bg-slate-600 font-semibold" : "bg-slate-800"}`}
                          to="/InfiniteLoadingOnClick">InfiniteLoading <br/> _OnClick</NavLink>
                 <NavLink className={({isActive}) => `${isActive ? "bg-slate-600 font-semibold" : "bg-slate-800"}`}
-                         to="/InfiniteLoadingOnClick">InfiniteLoading <br/>_OnScroll</NavLink>
+                         to="/InfiniteLoadingOnScroll">InfiniteLoading <br/>_OnScroll</NavLink>
             </div>
             <div className={`w-full text-center transition-transform duration-1000
            ${open ? "rotate-180" : "rotate-0"}`}>
