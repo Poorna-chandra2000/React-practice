@@ -36,6 +36,7 @@ const InfiniteScrolling = () => {
 
     //infinite scrolling
 const {ref,inView,entry}=useInView()
+    //any change in inview or fetchnectpage,useeffects will be invoked
     useEffect(() => {
         if(inView){
             fetchNextPage();

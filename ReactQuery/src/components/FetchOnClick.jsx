@@ -18,15 +18,15 @@ const FetchOnClick = () => {
     const { data, isLoading, isError, error,refetch} = useQuery({
         queryKey: ["posts"],//if you are trying to fetch product then also mention that state
         queryFn: fetchPosts,
-        // enabled:false
+        // enabled:false  //this is important and also use isFetching flag if you wanna verify,destrcture it from useQuery
     });
 
 
 //what if i wanna toggle display on click and not display on click
-    const [display, setDisplay] = useState(false);
+ const [display, setDisplay] = useState(false);
  const handleToggle=()=>{
-     setDisplay(!display);
-     // refetch();
+     setDisplay(!display); //this isnt good way
+     // refetch(); use this
  }
 
  //when you use state here outside of return statement it wont work
