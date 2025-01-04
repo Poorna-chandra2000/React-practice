@@ -27,7 +27,12 @@ const InfiniteOnClick = () => {
             }else {
                 return undefined;
             }
-        } //this is to handle edge cases
+        }, //this is to handle edge cases
+        // getPreviousPageParam: (_lastPage,allPages)=>{
+        //     if (allPages.length<6){
+        //         return undefined;
+        //     }
+        // }
     })
 //-------------------------------------------------------------------------------------------------------------------------------
     if(isLoading)return <LoadingAnim />;

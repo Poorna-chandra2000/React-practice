@@ -1,0 +1,30 @@
+/* Add these styles to your existing App.css */
+.create-post-form {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+}
+
+.create-post-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.create-post-form input,
+.create-post-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.create-post-form textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.create-post-form button {
+  align-self: flex-start;
+}
